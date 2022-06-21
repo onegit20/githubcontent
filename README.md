@@ -16,7 +16,7 @@ https://github.com/jsdelivr/jsdelivr/issues/18397
 
 https://luotianyi.vc/6295.html
 
-## 20226.21更新
+## 2022.6.21更新
 
 图片还是放自己的站点上吧，以前的图片还在github暂未迁移
 
