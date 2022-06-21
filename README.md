@@ -16,6 +16,12 @@ https://github.com/jsdelivr/jsdelivr/issues/18397
 
 https://luotianyi.vc/6295.html
 
+## 20226.21更新
+
+图片还是放自己的站点上吧，以前的图片还在github暂未迁移
+
+示例：
+https://raw.yanyong.cc/images/yy.jpg
 
 ## 强制刷新缓存，或者浏览器访问一下
 curl https://purge.jsdelivr.net/gh/onegit20/githubcontent@main/images/yy.jpg
