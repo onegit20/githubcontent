@@ -22,9 +22,11 @@ https://luotianyi.vc/6295.html
 
 示例：
 https://img.yanyong.cc/images/yy.jpg
+
 https://raw.yanyong.cc/images/yy.jpg
-![](https://img.yanyong.cc/images/yy.jpg)
-![](https://raw.yanyong.cc/images/yy.jpg)
+
+![img](https://img.yanyong.cc/images/yy.jpg)
+![raw](https://raw.yanyong.cc/images/yy.jpg)
 
 ## 强制刷新缓存，或者浏览器访问一下
 curl https://purge.jsdelivr.net/gh/onegit20/githubcontent@main/images/yy.jpg
